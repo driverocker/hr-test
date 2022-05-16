@@ -31,6 +31,7 @@ class User
     /**
      * Возвращает список пользователей старше заданного возраста.
      * @param int $ageFrom
+     * @param int $limit
      * @return array
      */    
     // Более подходящее название для метода - getUsersByName, исходя из его задачи
